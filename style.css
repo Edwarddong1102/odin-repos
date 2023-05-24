@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: beige;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Sofia", sans-serif;
+    color: #754ddb;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18
+    }
+
+p {
+    font-family: Verdana;
+    font-size: 20px;
+}
